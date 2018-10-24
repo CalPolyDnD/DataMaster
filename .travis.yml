@@ -6,5 +6,5 @@ python:
 pip install -r dependencies.txt
 
 #Run Tests
-#script:
+script:
    - echo TEST
